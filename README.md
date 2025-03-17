@@ -1,14 +1,35 @@
-# powerbi-portfolio
-# 📊 Análise de Vendas - Power BI  
-Este dashboard apresenta insights sobre as vendas de uma empresa, incluindo faturamento, ticket médio e produtos mais vendidos.  
+Análise de Vendas com Power BI
 
-## 📌 Tecnologias usadas  
-- Power BI  
-- Power Query  
-- DAX  
+📌 Sobre o Projeto
 
-## 📊 Dashboard  
-![Imagem do Dashboard](link-da-imagem)  
+Este projeto apresenta uma análise de dados de vendas utilizando o Power BI. Foram criados gráficos e dashboards para visualizar tendências e padrões nos dados.
 
-## 📂 Como acessar  
-Baixe o arquivo .pbix ou acesse o [Power BI Service](https://app.powerbi.com).
+📊 Dados Utilizados
+
+O conjunto de dados contém informações sobre vendas, incluindo:
+	•	Identificador da Venda
+	•	Data da Venda
+	•	Nome do Cliente
+	•	Produto Comprado
+	•	Número de Unidades
+	•	Preço Total da Compra
+
+📈 Dashboards Criados
+
+Foram gerados alguns gráficos para análise, como:
+	•	Gráfico de Linha: Representando a variação das vendas ao longo do tempo.
+	•	[Nome do Segundo Gráfico]: [Explicação breve do que ele mostra].
+
+📸 Imagens dos Dashboards
+
+As capturas de tela dos dashboards podem ser encontradas na pasta imagens/.
+
+📂 Como Acessar os Arquivos
+	1.	Baixar o arquivo Power BI (arquivo.pbix).
+	2.	Abrir no Power BI Desktop.
+
+Caso não tenha o Power BI instalado, você pode baixá-lo aqui.
+
+🚀 Melhorias Futuras
+	•	Aprimorar os gráficos para melhor visualização dos dados.
+	•	Explorar mais funcionalidades do Power BI, como filtros e segmentações.
